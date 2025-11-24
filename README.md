@@ -54,7 +54,3 @@ Desenvolvedor Full Stack apaixonado por criar aplicações web robustas e escal�
 - 💬 Pergunte-me sobre Next.js, Node.js, Laravel ou desenvolvimento web
 
 ---
-
-<div align="center">
-  
-  ![Visitor

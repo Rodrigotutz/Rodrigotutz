@@ -40,19 +40,6 @@ Desenvolvedor Full Stack apaixonado por criar aplicações web robustas e escal�
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dracula" alt="GitHub Streak" />
-</div>
-
 ## 📫 Entre em Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)

@@ -1,22 +1,73 @@
+# 👋 Olá, eu sou Rodrigo Tutz!
+
 <div align="center">
-    <h1>Olá, meu nome é Rodrigo TUTZ</h1
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Next.js+%7C+Node.js+%7C+Laravel;Construindo+soluções+web+escaláveis)
+
 </div>
-<hr>
-<div align="center" > 
-    <h2>Linguagens: </h2>
-    <img align="center" alt="TUTZ-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-    <img align="center" alt="TUTZ-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
-    <img align="center" alt="TUTZ-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
+## 🚀 Sobre mim
+
+Desenvolvedor Full Stack apaixonado por criar aplicações web robustas e escaláveis. Especializado em tecnologias modernas e sempre em busca de novos desafios e aprendizados.
+
+🌐 **Portfólio:** [rodrigotutz.com](https://rodrigotutz.com)
+
+## 💻 Tech Stack
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Banco de Dados
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebird](https://img.shields.io/badge/Firebird-F05032?style=for-the-badge&logo=firebird&logoColor=white)
+
+### DevOps & Ferramentas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<br>
-<div align="start">
-        <a href="https://api.whatsapp.com/send?phone=5517981337392&text=Ol%C3%A1%2C%20Que%20bom%20que%20chegou%20at%C3%A9%20aqui!"        target="_blank">
-          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-        </a>
-        <a href="https://www.linkedin.com/in/rodrigotutz/" target="_blank">
-          <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-        </a> 
-        <a href="https://www.instagram.com/rodrigo_tutz/" target="_blank">
-          <img src="	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img>
-        </a>
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dracula" alt="GitHub Streak" />
 </div>
+
+## 📫 Entre em Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rodrigotutz.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+
+## 💡 O que estou fazendo agora
+
+- 🔭 Trabalhando em aplicações web full stack
+- 🌱 Aprimorando conhecimentos em arquitetura de sistemas
+- 👯 Aberto a colaborações em projetos interessantes
+- 💬 Pergunte-me sobre Next.js, Node.js, Laravel ou desenvolvimento web
+
+---
+
+<div align="center">
+  
+  ![Visitor

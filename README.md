@@ -1,8 +1,5 @@
 <div align="center">
-    <h1>Olá, meu nome é Rodrigo TUTZ</h1>
-    <h4>Essas são as minhas Skills: </h4>
-    <a href="https://github.com/Rodrigotutz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigotutz&layout=compact&langs_count=7&theme=github_dark"/>
+    <h1>Olá, meu nome é Rodrigo TUTZ</h1
 </div>
 <hr>
 <div align="center" > 
